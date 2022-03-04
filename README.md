@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav1901&label=Profile%20views&color=0e75b6&style=flat" alt="pranav1901" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django, PowerBi,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pranav1901/Pranav1901](https://github.com/Pranav1901/Pranav1901)
 
