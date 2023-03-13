@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rodgepranav@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1S5L_t3D0Y5R6z6q3QOLPSrGSbol78b3t/view?usp=sharing](https://drive.google.com/file/d/1S5L_t3D0Y5R6z6q3QOLPSrGSbol78b3t/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1S5L_t3D0Y5R6z6q3QOLPSrGSbol78b3t/view?usp=sharing)
 
 - ⚡ Fun fact **I think, I am good singer**
 
