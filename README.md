@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav Rodge 😎</h1>
-<h3 align="center">A Final Year Student, Interested in Competitive Programming, Android Development, Spring Boot, Blockchain.</h3>
+<h3 align="center">A Software Engineer, Interested in Competitive Programming, Android Development, Spring Boot, Blockchain.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav1901&label=Profile%20views&color=0e75b6&style=flat" alt="pranav1901" /> </p>
 
